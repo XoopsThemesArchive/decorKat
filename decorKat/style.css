@@ -1,0 +1,54 @@
+table { width: 100%; font-size: small}
+table td { font-family: Verdana, Arial, Helvetica, sans-serif;}
+
+td#sitenamex { font-size: 20px; color: #ffffff; font-weight:bold; }
+.blockTitle {color: #c0c0c0; padding: 2px; font-weight: bold;}
+.blockTitlex { font-size: 12px; color: #ffffff; padding: 2px; font-weight: bold;}
+.blockContent { font-size: 12px; color: #c0c0c0; padding: 2px; border: 0px none;}
+.blockContentx { font-size: 12px; color: #000000; padding: 2px; border: 0px none;}
+
+
+body { font-family: Tahoma, taipei;}
+a { font-family: Tahoma, taipei; font-size: 12px; text-decoration: none; color: #333333; font-style: normal}
+a:hover { text-decoration: underline;  font-family: Tahoma, taipei; font-size: 12px; color: #0000FF; font-style: normal}
+td {  font-family: Tahoma, taipei; color: #000000; font-size: 12px;}
+input { background-color : transparent; color : #000000; font-family : Tahoma, taipei, Verdana, Arial, Helvetica, sans-serif; font-size : 12px; font-weight : normal; text-indent : 2px;  }
+textarea {font-family: Tahoma, taipei, Verdana, Arial, Helvetica, sans-serif; font-size: 12px;background-color : transparent; font-weight : bold; text-indent : 2px;}
+select {font-family: Tahoma, taipei, Verdana, Arial, Helvetica, sans-serif; font-size: 12px; background-color:#F5F5F5; } 
+img { border: 0px none;}
+ul { margin: 2px; padding: 2px; list-style: decimal inside; text-align: left;}
+li { margin-left: 2px; list-style: disc inside;}
+
+.comTitle { color: #808080;font-weight: bold; margin-bottom: 2px;}
+.comText { color: #808080;padding: 2px;}
+.comUserStat {font-size: 10px; color: #808080; border: 0px solid #cccccc; background-color: #ffffff; margin: 2px; padding: 2px;}
+.comUserStatCaption { color: #808080;font-weight: normal;}
+.comUserStatus {margin-left: 2px; margin-top: 10px; color: #c0c0c0; font-size: 12px;}
+.comUserRank { color: #c0c0c0;margin: 2px;}
+.comUserRankText { color: #c0c0c0;font-size: 10px;}
+.comUserRankImg { color: #c0c0c0;border: 0px none;}
+.comUserName { color: #c0c0c0;font-size: 12px;}
+.comUserImg { color: #c0c0c0; margin: 2px;}
+.comDate {font-size: 12px; font-weight: normal; font-style: italic; font-size: smaller; color: #c0c0c0;}
+.comDateCaption {font-size: 12px; font-style: normal; color: #c0c0c0;}
+
+.item {border-style: dotted; border-width: 1px; border-color: #c0c0c0; padding: 2px;}
+.itemHead { color: #c0c0c0; padding: 2px; text-align: left;}
+.itemInfo {text-align: right; padding: 3px; color: #c0c0c0;}
+.itemTitle a {font-size: 14px; font-weight: bold; font-variant: small-caps; color: #c0c0c0; background-color: transparent;}
+.itemPoster {font-size: 12px; font-style:italic; color: #c0c0c0;}
+.itemPostDate {font-size: 12px; font-style:italic; color: #c0c0c0;}
+.itemStats {font-size: 12px; font-style:italic; color: #c0c0c0;}
+.itemBody {padding-left: 5px; text-align: left; font-size: 12px; color: #333333;}
+.itemText {margin-top: 5px; margin-bottom: 5px; line-height: 1.5em; color: #333333;}
+.itemText:first-letter {font-size: 12px;}
+.itemFoot {text-align: right; padding: 3px; color: #c0c0c0;}
+.itemAdminLink {font-size: 90%; color: #c0c0c0;}
+.itemPermaLink {font-size: 90%; color: #c0c0c0;}
+
+.odd { background-color: #eeeeee;}
+.outer { background-color: #CCCCCC;}
+.even { background-color: #DDE1DE;}
+th { background-color: transparent;}
+.head { background-color: #E2DBD3;}
+.foot { background-color: #E2DBD3;}
